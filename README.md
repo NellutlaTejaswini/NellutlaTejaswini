@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @NellutlaTejaswini
+- 👀 I’m interested in C, C++,Java, Puthon, HTML,CSS...
+- 🌱 I’m a recent CSE graduate (Fresher) ...
+- 💞️ I’m looking for an IT job in a reputed company...
+
+<!---
+NellutlaTejaswini/NellutlaTejaswini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
